@@ -91,7 +91,6 @@ SYNTHESIZE_ASC_PRIMITIVE(__retryPolicyLogMessagesEnabled, setRetryPolicyLogMessa
         case kCFURLErrorBadURL:
         case kCFURLErrorUnsupportedURL:
         case kCFURLErrorHTTPTooManyRedirects:
-        case kCFURLErrorBadServerResponse:
         case kCFURLErrorUserCancelledAuthentication:
         case kCFURLErrorUserAuthenticationRequired:
         case kCFURLErrorZeroByteResource:
